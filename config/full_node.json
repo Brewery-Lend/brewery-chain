@@ -1,7 +1,7 @@
 {
     "parent-chain": {
         "connection": {
-            "url": process.env.BATCH_POSTER_PRIVATE_KEY
+            "url": process.env.WEB_SOCKET_URL_ARB_SEP
         }
     },
     "chain": {
